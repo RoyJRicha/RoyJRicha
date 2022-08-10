@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RoyJRicha
 - 👀 I’m interested in computer hardware and conputer science
 - 🌱 I’m currently learning more JavaScript and Angular
-- 💞️ I’m looking to collaborate on a project with InfoMagnus
+- 💞️ I’m looking to collaborate and work on projects through an internship in companies such as Apple, Microsoft, Google, etc.
 - 📫 How to reach me: royjricha@gmail.com
 
 <!---
