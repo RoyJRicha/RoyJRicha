@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RoyJRicha
+- 👋 Hi, I’m Roy Richa
 - 👀 Software Engineering major at UCI (Sophomore classified Junior)
 - 💼 Known programming languages: Python, Javascript, C++, Java, React, Angular, SQL, HTML, CSS, Github
 - 📁 Other skills: M365 platform. Website development (WordPress) -- Hardware, troubleshooting, custom computer building, 3D design -- Graphic design/Video Editing - Adobe Platform (Photoshop, Premier, etc.)
