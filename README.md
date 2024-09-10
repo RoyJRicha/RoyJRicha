@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Roy Richa
-- 👀 Software Engineering major at UCI (Sophomore classified Junior)
-- 💼 Known programming languages: Python, Javascript, C++, Java, React, Angular, SQL, HTML, CSS, Github
-- 📁 Other skills: M365 platform. Website development (WordPress) -- Hardware, troubleshooting, custom computer building, 3D design -- Graphic design/Video Editing - Adobe Platform (Photoshop, Premier, etc.)
-- 🌱 Currently working on many personal projects and learning new languages like C++
-- 💞️ Looking to collaborate and work on projects through an internship in companies such as Apple, Microsoft, Google, Riot Games, Blizzard, etc.
-- 📫 How to reach me: royjricha@gmail.com _ 949-565-9665
+- 👀 Software Engineering major at UCI (3rd Year - Senior)
+- 💼 Known programming languages: Python, Javascript, C++, Java, GoLang, React, Angular, SQL, HTML, CSS, Github
+- 📁 Other skills: TCP/IP, Wireshark, tcpdump, strace, M365 platform. Website development (WordPress) -- Hardware, troubleshooting, custom computer building, 3D design -- Graphic design/Video Editing - Adobe Platform (Photoshop, Premier, etc.)
+- 🌱 Currently working on many personal projects and learning new languages like GoLang and C++
+- 💞️ Looking to collaborate and work on projects through an internship in companies such as Apple, Microsoft, Google, Tencent, Riot Games, Blizzard, etc.
+- 📫 How to reach me: royjricha@gmail.com | 949-565-9665
