@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Roy Richa
-- 👀 Software Engineering major at UCI (3rd Year - Senior)
+- 👀 Data Engineer I at Wayvia - Software Engineering Alumni from UCI
 - 💼 Known programming languages: Python, Javascript, C++, Java, GoLang, React, Angular, SQL, HTML, CSS, Github
 - 📁 Other skills: TCP/IP, Wireshark, tcpdump, strace, M365 platform. Website development (WordPress) -- Hardware, troubleshooting, custom computer building, 3D design -- Graphic design/Video Editing - Adobe Platform (Photoshop, Premier, etc.)
 - 🌱 Currently working on many personal projects and learning new languages like GoLang and C++
